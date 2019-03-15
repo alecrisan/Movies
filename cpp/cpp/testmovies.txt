@@ -1,0 +1,10 @@
+Step Up,Drama,2006,155,https://www.youtube.com/watch?v=ZgnmCqA25-o, 120
+It,Thriller,2017,2000,https://www.youtube.com/watch?v=FnCdOQsX5kc,100
+Beauty and the Beast,Fantasy,2017,350,https://www.youtube.com/watch?v=e3Nl_TCQXuw,90
+The maze runner,Science fiction,2014,400, https://www.youtube.com/watch?v=64-iSYVmMVY,120
+Now you see me,Mystery,2013,500,https://www.youtube.com/watch?v=4OtM9j2lcUA,110
+We're the millers,Comedy,2013,450,https://www.youtube.com/watch?v=0Vsy5KzsieQ,100
+Love Rosie,Romance,2014,1000,https://www.youtube.com/watch?v=SqSE6Kzuht0,180
+Kingsman: The secret service,Science fiction,2014,1200,https://www.youtube.com/watch?v=kl8F-8tR8to&t=7s,80
+Project X,Comedy,2012,700,https://www.youtube.com/watch?v=3BEIhA8CcY0,115
+Shutter Island,Thriller,2010,800,https://www.youtube.com/watch?v=5iaYLCiq5RM,120
